@@ -1,1 +1,27 @@
-circle
+scalable vector graphics
+Index Charts
+Stacked Graphs
+stacking area charts
+stream graphs
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+Parallel Coordinates
+Choropleth Maps
+Graduated Symbol Maps
+Dorling cartogram
+Reingold-Tilford algorithm
+dendrogram
+Adjacency Diagrams
+node-link diagrams
+icicle
+Enclosure Diagrams
+Squarified treemaps
+Fancier algorithms
+Voronoi and jigsaw treemaps
+circle-packing layouts
+force-directed layouts
+Arc Diagrams
+adjacency matrix
+giant hairballs of line crossings
+
