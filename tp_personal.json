@@ -1,4 +1,4 @@
-[
+data =
   {
     "Tarea": "Bañarse",
     "Categoría": "Aseo Personal",
@@ -455,4 +455,3 @@
     "Domingo": 662,
     "Semanal": 2658
   }
-]
